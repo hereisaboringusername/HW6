@@ -1,0 +1,76 @@
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+In Book's compareTo
+Tree set data: Book{no0fPages=-9, price=19.99, name='Harry Potter and the Goblet of Fire', bookType=ELECTRONIC}
+Book{noOfPages=92, price=22.99, name='
+, bookType=HARDBACK}
+Book{no0fPages=120, price=29.99, name='The Lord of the Rings', bookType=HARDBACK}
+Book{noOfPages=156, price=19.99, name='And Then There Were None'.
+, bookType=SOFTBACK}
+Book{noOfPages=156, price=39.99, name='And Then There Were None'.
+, bookType=HARDBACK;
+Book{noOfPages=212, price=32.5, name='The Hobbit'
+, bookType=HARDBACK}
+Book{noOfPages=231, price=54.99, name='Citizen Soldier'
+, bookType=HARDBACK}
+Book{noOfPages=253, price=25.0, name='The Da Vinci Code'
+bookType=HARDBACK}
+Book{noOfPages=320, price=16.2, name='American Sniper'
+bookType=HARDBACK}
+Book{noOfPages=320, price=40.99, name='Opus 200', bookType=HARDBACK}
+Book{noOfPages=391, price=23.87, name='The Girl on the Train', bookType=SOFTBACK}
+Book{noOfPages=426, price=79.99, name='Data Structures and Algorithms', bookType=SOFTBACK}
+Book{noOfPages=439, price=19.99, name='Harry Potter and the Half-Blood Prince'
+.bookType=ELECTRONIC}
+Book{noOfPages=546, price=-99.0, name='Harry Potter and the Prisoner of Azkaban', bookType=HARDBACK}
+Book{no0fPages=829, price=23.95, name='The Soloman Curse', bookType=HARDBACK}
+Book Price Tree set data:
+Book{noOfPages=546, price=-99.0, name='Harry Potter and the Prisoner of Azkaban', bookType=HARDBACK}
+Book{noOfPages=320, price=16.2, name='American Sniper', bookType=HARDBACK}
+Book{no0fPages=-9, price=19.99, name='Harry Potter and the Goblet of Fire', bookType=ELECTRONIC}
+Book{noOfPages=92, price=22.99, name='
+bookType=HARDBACK}
+Book{noOfPages=253, price=25.0, name='The Da Vinci Code', bookType=HARDBACK}
+Book{no0fPages=120, price=29.99, name='The Lord of the Rings', bookType=HARDBACK}
+Book{noOfPages=212, price=32.5, name='The Hobbit', bookType=HARDBACK}
+Book{noOfPages=156, price=39.99, name='And Then There Were None', bookType=HARDBACK}
+Book{noOfPages=320, price=40.99, name='Opus 200', bookType=HARDBACK}
+Book{noOfPages=231, price=54.99, name='Citizen Soldier'
+bookType=HARDBACK?
+Book{noOfPages=426, price=79.99, name='Data Structures and Algorithms'
+, bookType=SOFTBACK}
